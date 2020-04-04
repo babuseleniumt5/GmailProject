@@ -1,1 +1,2 @@
-system.out.println("This is Inbox funcinality")
+system.out.println("This is Inbox funcinality");
+New functinality
